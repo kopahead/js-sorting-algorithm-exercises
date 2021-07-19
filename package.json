@@ -1,0 +1,27 @@
+{
+  "name": "js-sorting-algorithm-exercises",
+  "version": "1.0.0",
+  "description": "Some exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kopahead/js-sorting-algorithm-exercises.git"
+  },
+  "keywords": [
+    "testing",
+    "exercises",
+    "sortng"
+  ],
+  "author": "Elvis Magagula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kopahead/js-sorting-algorithm-exercises/issues"
+  },
+  "homepage": "https://github.com/kopahead/js-sorting-algorithm-exercises#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
